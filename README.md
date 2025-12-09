@@ -10,3 +10,4 @@ The final write up can be found in the deliverables folder.
 
 # Interesting Figures and Tables
 
+![Continuous Trait Mapping](https://github.com/ChrisDeardeuff/BIO-549-PCM-Project-2/blob/main/output/Rplots.pdf)
