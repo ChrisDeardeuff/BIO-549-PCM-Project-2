@@ -1,0 +1,12 @@
+Summary Statistic	Replicate_ID	Posterior	Likelihood	Prior	sigma2
+mean	0.5	-13.548	-15.3716	1.8236	0.0429
+stderr of mean	5.2699E-3	8.0072E-3	6.6908E-3	3.7459E-3	1.6759E-4
+stdev	0.5	0.7437	0.6248	0.3483	0.0155
+variance	0.25	0.5531	0.3904	0.1213	2.415E-4
+median	0	-13.2438	-15.1186	1.8379	0.0398
+value range	[0, 1]	[-17.5412, -12.9576]	[-20.4006, -14.8948]	[0.9169, 2.8593]	[0.0143, 0.0999]
+geometric mean	n/a	n/a	n/a	1.7883	0.0404
+95% HPD interval	[0, 1]	[-15.2101, -12.9576]	[-16.7123, -14.8948]	[1.101, 2.4645]	[0.0174, 0.0749]
+auto-correlation time (ACT)	1	1.0437	1.0324	1.0415	1.047
+effective sample size (ESS)	9002	8625.4	8719.6	8643.6	8597.7
+number of samples	9002	9002	9002	9002	9002

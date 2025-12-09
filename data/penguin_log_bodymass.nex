@@ -1,0 +1,25 @@
+#NEXUS
+
+BEGIN DATA;
+    DIMENSIONS NTAX=17 NCHAR=1;
+    FORMAT DATATYPE=CONTINUOUS MISSING=?;
+    MATRIX
+    Aptenodytes_patagonicus	9.37
+    Aptenodytes_forsteri	10.4214
+    Pygoscelis_papua	8.6883
+    Pygoscelis_adeliae	8.4863
+    Pygoscelis_antarcticus	8.3299
+    Eudyptes_chrysocome	7.7527
+    Eudyptes_pachyrhynchus	8.27
+    Eudyptes_robustus	8.019
+    Eudyptes_sclateri	8.6808
+    Eudyptes_chrysolophus	8.4085
+    Eudyptes_schlegeli	8.3529
+    Megadyptes_antipodes	8.5804
+    Eudyptula_minor	7.0101
+    Spheniscus_demersus	8.0488
+    Spheniscus_humboldti	8.3817
+    Spheniscus_magellanicus	8.32
+    Spheniscus_mendiculus	7.561
+;
+END;
